@@ -1,0 +1,18 @@
+# MCPServers.dev
+## About
+Comprehensive resource for MCP protocol, servers, and ecosystem. Operated by FlipPress (FlipFactory). Content is AI-assisted with human editorial oversight.
+
+## Topics
+- MCP Protocol specification and updates
+- MCP Server development tutorials
+- MCP ecosystem and marketplace
+- AI tool integration patterns
+- MCP security best practices
+
+## Editorial Process
+AI-assisted research and drafting with quality checks and human review.
+Learn more: https://mcpservers.dev/editorial-process
+
+## Contact
+Publisher: FlipFactory (https://flipfactory.it.com)
+Powered by: FlipPress
