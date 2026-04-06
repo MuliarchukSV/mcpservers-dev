@@ -1,18 +1,27 @@
 # MCPServers.dev
-## About
+
+> The definitive resource for MCP (Model Context Protocol) servers — protocol specs, server directories, development tutorials, and ecosystem guides for AI tool builders.
+
 Comprehensive resource for MCP protocol, servers, and ecosystem. Operated by FlipPress (FlipFactory). Content is AI-assisted with human editorial oversight.
 
-## Topics
+## Content Focus
 - MCP Protocol specification and updates
 - MCP Server development tutorials
 - MCP ecosystem and marketplace
 - AI tool integration patterns
 - MCP security best practices
 
+## Key Articles
+- [What is an MCP Server?](https://mcpservers.dev/blog/what-is-mcp-server/): Complete introduction to Model Context Protocol
+- [Building Your First MCP Server](https://mcpservers.dev/blog/building-mcp-server/): Step-by-step development guide
+- [MCP Server Directory](https://mcpservers.dev/blog/mcp-server-directory/): Curated list of production-ready MCP servers
+- [MCP vs REST APIs](https://mcpservers.dev/blog/mcp-vs-rest-apis/): When to use MCP vs traditional API integration
+
 ## Editorial Process
 AI-assisted research and drafting with quality checks and human review.
 Learn more: https://mcpservers.dev/editorial-process
 
-## Contact
-Publisher: FlipFactory (https://flipfactory.it.com)
-Powered by: FlipPress
+## Publisher
+Operated by FlipFactory Editorial Team. Content is AI-assisted with human editorial oversight.
+Website: https://mcpservers.dev
+Publisher: https://flipfactory.it.com
