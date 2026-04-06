@@ -12,16 +12,16 @@ Comprehensive resource for MCP protocol, servers, and ecosystem. Operated by Fli
 - MCP security best practices
 
 ## Key Articles
-- [What is an MCP Server?](https://mcpservers.dev/blog/what-is-mcp-server/): Complete introduction to Model Context Protocol
-- [Building Your First MCP Server](https://mcpservers.dev/blog/building-mcp-server/): Step-by-step development guide
-- [MCP Server Directory](https://mcpservers.dev/blog/mcp-server-directory/): Curated list of production-ready MCP servers
-- [MCP vs REST APIs](https://mcpservers.dev/blog/mcp-vs-rest-apis/): When to use MCP vs traditional API integration
+- [What is an MCP Server?](https://mcpservers.services/blog/what-is-mcp-server/): Complete introduction to Model Context Protocol
+- [Building Your First MCP Server](https://mcpservers.services/blog/building-mcp-server/): Step-by-step development guide
+- [MCP Server Directory](https://mcpservers.services/blog/mcp-server-directory/): Curated list of production-ready MCP servers
+- [MCP vs REST APIs](https://mcpservers.services/blog/mcp-vs-rest-apis/): When to use MCP vs traditional API integration
 
 ## Editorial Process
 AI-assisted research and drafting with quality checks and human review.
-Learn more: https://mcpservers.dev/editorial-process
+Learn more: https://mcpservers.services/editorial-process
 
 ## Publisher
 Operated by FlipFactory Editorial Team. Content is AI-assisted with human editorial oversight.
-Website: https://mcpservers.dev
+Website: https://mcpservers.services
 Publisher: https://flipfactory.it.com
