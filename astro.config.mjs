@@ -3,7 +3,7 @@ import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://mcpservers.services',
+  site: 'https://mcpservers-dev.pages.dev',
   srcDir: './template/src',
   integrations: [tailwind(), sitemap()],
   markdown: { shikiConfig: { theme: 'github-dark' } },
