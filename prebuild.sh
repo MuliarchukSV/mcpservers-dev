@@ -10,3 +10,6 @@ fi
 if [ -f "public/llms.txt" ]; then
   cp public/llms.txt template/public/llms.txt 2>/dev/null || true
 fi
+if [ -f "public/favicon.svg" ]; then
+  cp public/favicon.svg template/public/favicon.svg 2>/dev/null || true
+fi
