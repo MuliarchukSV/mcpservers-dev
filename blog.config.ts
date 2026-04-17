@@ -9,6 +9,14 @@ const config: BlogConfig = {
   niche: "MCP servers",
   colors: { primary: "#6366f1", accent: "#22d3ee" },
   analytics: { plausibleDomain: "mcpservers.services" },
+  author: {
+    name: 'Sergii Muliarchuk',
+    url: 'https://flipfactory.it.com',
+    sameAs: [
+      'https://www.linkedin.com/in/sergii-muliarchuk/',
+      'https://github.com/MuliarchukSV',
+    ],
+  },
 };
 
 export default config;
