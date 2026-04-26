@@ -13,3 +13,6 @@ fi
 if [ -f "public/favicon.svg" ]; then
   cp public/favicon.svg template/public/favicon.svg 2>/dev/null || true
 fi
+if [ -f "public/robots.txt" ]; then
+  cp public/robots.txt template/public/robots.txt 2>/dev/null || true
+fi
