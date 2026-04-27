@@ -4,6 +4,11 @@
 git submodule sync --recursive 2>/dev/null || true
 git submodule update --init --recursive --force 2>/dev/null || true
 
+# Force-remove obsolete dynamic robots route — static public/robots.txt wins now.
+# Defensive: works even if Cloudflare build cache holds stale template state
+# where this file still exists.
+rm -f template/src/pages/robots.txt.ts 2>/dev/null || true
+
 # Copy blog-specific content into template content directory
 # This runs before astro build to merge per-blog articles with template
 if [ -d "src/content/blog" ]; then
